@@ -8,9 +8,12 @@ run the redis server using the following command(This is essentital for the webs
 
 > $ docker run -p 6379:6379 -d redis:2.8
 
-migrate the database and makemigrations
+Migrate the database.
 
 > $ python manage.py migrate
+
+Then makemigrations.
+
 > $ python manage.py makemigrations
 
 
