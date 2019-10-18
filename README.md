@@ -25,7 +25,7 @@ Then run the server.
 
 Goto http://localhost/chat. You will see the following screen. 
 
-![lobby name]()
+![lobby name](https://github.com/Allwin12/Django-chat-application-using-channels/blob/master/chat-application-1.png)
 
 
 Type in the name of the lobby. Open another one tab and go to the same lobby
